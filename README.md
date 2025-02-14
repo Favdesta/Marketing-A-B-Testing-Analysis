@@ -58,11 +58,3 @@ The dataset includes user interaction data from an A/B test conducted for a mark
 ## Conclusion
 The analysis of this dataset allows for a data-driven approach to assessing marketing campaign effectiveness. By running A/B tests, companies can make informed decisions on ad performance, campaign impact, and future investment in digital advertising strategies.
 
-## How to Use This Dataset
-1. Load the dataset into a data analysis tool (e.g., Python with Pandas, R, SQL, Tableau).
-2. Perform exploratory data analysis to understand distribution and trends.
-3. Run statistical tests to validate results.
-4. Derive actionable insights for optimizing marketing strategies.
-
-This README provides a structured approach to analyzing A/B test results and extracting valuable business insights from the dataset.
-
